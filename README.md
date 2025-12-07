@@ -8,6 +8,6 @@ Peringatan !
 
 Ini Hanya Untuk Menmperbarui Script Website Wiyata.netlify.app
 
-Jika Ingin Menyalin Script Harus Sudah Ada Konfirmasi @dezzacbaw di discord
+Jika Ingin Menyalin Script Harus Sudah Ada Konfirmasi @dezzacbaw di discord atau mengirimkan izin ke Ciptawsa@gmail.com
 
 Itu Saja , Sekian Terimakasih !
