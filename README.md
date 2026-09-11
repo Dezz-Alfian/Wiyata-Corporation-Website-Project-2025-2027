@@ -6,8 +6,8 @@ Pada Kesempatan Kali Ini Saya Membuat Proyek Yang Bernama Wiyata Corporation Web
 
 Peringatan !
 
-Ini Hanya Untuk Menmperbarui Script Website Wiyata.netlify.app
+Ini Hanya Untuk Memperbarui Script Website Wiyata.netlify.app
 
-Jika Ingin Menyalin Script Harus Sudah Ada Konfirmasi @dezzacbaw di discord atau mengirimkan izin ke Ciptawsa@gmail.com
+Jika Ingin Menyalin Script Harus Sudah Ada Konfirmasi @dezzacbaw di discord atau mengirimkan izin ke wiyataadmin@yahoo.com
 
 Itu Saja , Sekian Terimakasih !
